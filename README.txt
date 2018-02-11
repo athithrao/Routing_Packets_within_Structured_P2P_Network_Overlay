@@ -1,9 +1,6 @@
 CS455 - HW1 - Programming Component
 Routing Packets within a structured peer-to-peer (P2P) network overlay
 
-Name - Athith Amarnath
-CSUID - 830715061
-
 To make the project please use the following command
 
 	make
@@ -20,7 +17,7 @@ To run the registry, please run the following command
 
 To run the messaging nodes, I used the following script in test-overlay.sh
 
-    test_home=/s/chopin/b/grad/athitha/CS455/CS455_P1/src
+    test_home=/s/chopin/b/grad/athitha/CS455/CS455_P1/src <PLEASE CHANGE THIS ABSOLUTE PATH>
      
     for i in `cat machine_list`
     do
